@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/assets/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/assets/Game Over.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/assets/Main.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/assets/Pause Scene.unity
+  isLoaded: 0
+  isActive: 0

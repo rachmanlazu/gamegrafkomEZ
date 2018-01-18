@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\assets\scripts\ExitOnClick.cs">
+    <Files>
+      <File FileName="Assets\assets\scripts\EnemyHealth.cs" Line="81" Column="10" />
+      <File FileName="Assets\assets\scripts\AlienController.cs" Line="148" Column="19" />
+      <File FileName="Assets\assets\scripts\spawn.cs" Line="44" Column="36" />
+      <File FileName="Assets\assets\scripts\RandomizeAlienAppearance.cs" Line="1" Column="1" />
+      <File FileName="Assets\assets\scripts\playerController.cs" Line="84" Column="2" />
+      <File FileName="Assets\assets\scripts\PlayerHealth.cs" Line="5" Column="35" />
+      <File FileName="Assets\assets\scripts\EnemyDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\assets\scripts\HealthPickupController.cs" Line="26" Column="3" />
+      <File FileName="Assets\assets\scripts\Coin.cs" Line="36" Column="4" />
+      <File FileName="Assets\Points.cs" Line="16" Column="28" />
+      <File FileName="Assets\assets\scripts\CoinPickUp.cs" Line="28" Column="47" />
+      <File FileName="Assets\assets\scripts\ExitOnClick.cs" Line="11" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
